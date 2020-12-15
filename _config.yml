@@ -3,7 +3,7 @@
 # Site Settings
 title: Kaixiang Chen | Senior Software Engineer
 url: 'https://resume.kaix.dev'
-baseurl: '' #change it according to your repository name
+baseurl: '/online-cv' #change it according to your repository name
 description: A beautiful Jekyll theme for creating resume
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: blue # blue turquoise green berry orange ceramic
