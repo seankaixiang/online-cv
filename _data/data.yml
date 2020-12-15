@@ -101,7 +101,7 @@ projects:
     assignments:
       - title: WhaleFinder
         link: "https://play.google.com/store/apps/details?id=com.whale.WhaleFinder.app&hl=zh_TW"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: ""
 
 #       - title: DevStudio
 #         link: "#"
