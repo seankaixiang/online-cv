@@ -164,6 +164,7 @@ skills:
         # level: 60%
       - name: Google Cloud Platform
 
+      - name: Git
       - name: Markdown
 
 footer: >
