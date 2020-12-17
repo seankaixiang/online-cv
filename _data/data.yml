@@ -145,27 +145,25 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: PHP & Laravel
+      - name: PHP / Laravel / Twig
         # level: 98%
-
-      - name: Javascript & jQuery
+      - name: HTML / CSS / Bootstrap
+      - name: Javascript / jQuery
         # level: 98%
-
-      - name: HTML5 & CSS
-        # level: 98%
-
       - name: MySQL
-        # level: 95%
-
       - name: MongoDB
-        # level: 85%
-
-      - name: Linux & Ubuntu & Debian
+        # level: 95%
+      - name: Linux / Ubuntu / Debian
+      - name: Swagger / OpenAPI
         # level: 60%
       - name: Google Cloud Platform
-
+      - name: Google AD manager
       - name: Git
       - name: Markdown
+      - name: Agolia
+      - name: Jekyll
+      - name: Progress Web App (PWA)
+      - name: Accelerated Mobile Pages (AMP)
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
