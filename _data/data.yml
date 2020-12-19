@@ -81,27 +81,18 @@ experiences:
       time: 2013 - Present
       company: 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        I primarily developed a forum website and app, that have social network, news media and e-commerce service.
+          - PC and RWD mobile website
+          - App with Restful Web API
+          - Google AD manager with ADs for website
+          - Integrate other 3rd party services for SEO friendly
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: 
     assignments:
       - title: WhaleFinder
         link: "https://play.google.com/store/apps/details?id=com.whale.WhaleFinder.app&hl=zh_TW"
-        tagline: ""
+        tagline: "An android application used to indicate where the whale appeared, let the researcher get data to study."
 
 #       - title: DevStudio
 #         link: "#"
