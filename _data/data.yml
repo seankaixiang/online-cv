@@ -82,7 +82,6 @@ experiences:
           - PC and RWD mobile website
           - App with Restful Web API
           - Google AD manager with ADs for website
-          - Integrate other 3rd party services for SEO friendly
 projects:
     title: Projects
     intro: 
@@ -138,18 +137,14 @@ skills:
       - name: HTML / CSS / Bootstrap
       - name: Javascript / jQuery
         # level: 98%
-      - name: MySQL
-      - name: MongoDB
+      - name: MySQL / MongoDB
         # level: 95%
       - name: Linux / Ubuntu / Debian
-      - name: Swagger / OpenAPI
         # level: 60%
       - name: Google Cloud Platform
       - name: Google AD manager
       - name: Git
       - name: Markdown
-      - name: Agolia
-      - name: Jekyll
       - name: Progress Web App (PWA)
       - name: Accelerated Mobile Pages (AMP)
 
